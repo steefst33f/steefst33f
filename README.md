@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steef
-- 👀 I’m interested in BTC⚡ Mobile (iOS) & Embedded Software Development (Arduino, ESP-IDF)
+- 👀 I’m interested in BTC⚡ Meshtastic📡 Mobile (iOS) & Embedded Software Development (Arduino, ESP-IDF)
 - 💻 I'm programming in Swift C++ Rust
-- 🌱 I’m currently working on a Bitcoin Lightning Vending Machine
+- 🌱 I’m currently working on a Bitcoin Lightning Vending Machine & Meshtastic Node
 - 💞️ I’m looking to collaborate on BTC projects
 - 📫 You can reach me on Telegram @steefst33f
 
