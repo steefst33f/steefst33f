@@ -2,7 +2,7 @@
 - 👀 I’m interested in BTC⚡ Mobile (iOS) & Embedded Software Development (Arduino, ESP-IDF)
 - 💻 I'm programming in Swift C++ Rust
 - 🌱 I’m currently working on a Bitcoin Lightning Vending Machine
-- 💞️ I’m looking to collaborate on BTC Lightning ⚡ projects
+- 💞️ I’m looking to collaborate on BTC projects
 - 📫 You can reach me on Telegram @steefst33f
 
 <!---
